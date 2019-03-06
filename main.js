@@ -7,8 +7,7 @@ setInterval(() => {
         })
     makeCurrent(getImage(n+1))
     n += 1
-}, 3000)
-
+}, 2000)
 
 
 function x(n) {
